@@ -27,7 +27,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository** 📂:
     ```sh
-    git clone https://github.com/your-username/split-money.git
+    git clone https://github.com/fncreator22/Split-Money-application
     cd split-money
     ```
 
@@ -50,51 +50,33 @@ To run this application locally, follow these steps:
 
 5. **Open** 🌐 [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Deployment 🌐
+
+The application is deployed at [https://split-money-app.netlify.app/](https://split-money-app.netlify.app/)
+
 ## Usage 🚀
 
-1. **Sign up** 📝 for a new account or log in with an existing account.
-2. **Create a new group** 👥 and invite members.
-3. **Add expenses** ➕ to the group and specify the amount and participants.
-4. **View the expense summary** 📊 to see how much each member owes or is owed.
-
-## Learn More 📚
-
-To learn more about Next.js, take a look at the following resources:
-
-- 📖 [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- 🧑‍🏫 [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Netlify 🚀
-
-The easiest way to deploy your Next.js app is to use [Netlify](https://www.netlify.com/).
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Sign Up / Log In**: Create an account or log in with your existing credentials.
+2. **Create a Group**: Set up a group for your shared expenses.
+3. **Add Expenses**: Add expenses to the group, specifying the amount and the members involved.
+4. **Split Expenses**: Automatically split expenses among group members.
+5. **View Reports**: Check the summary and detailed reports of your expenses.
 
 ## Contributing 🤝
 
-We welcome contributions from the community. To contribute, follow these steps:
+Contributions are welcome! Please follow these steps to contribute:
 
-1. **Fork the repository** 🍴.
-2. **Create a new branch** 🌿:
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-3. **Make your changes** ✏️ and commit them:
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch** 🚀:
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-5. **Open a pull request** 🔄.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
 
 ## License 📄
 
-This project is licensed under the MIT License. See the [LICENSE](http://_vscodecontentref_/1) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
 
-For any inquiries or support, please contact us at support@splitmoney.com.
+For any inquiries or feedback, please contact us at [email@example.com](mailto:email@example.com).
